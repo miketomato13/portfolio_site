@@ -16,7 +16,7 @@ let resumeData = {
         "className":"fa fa-github"
       }
     ],
-  "aboutme":"After many years of sales experience in the real estate and travel industries, I have recently decided to go for a career change and jump into Full Stack Web Development. I am a recent Wyncode Academy graduate, and as such I am ready to parlay my past experience with my new found tech knowledge and accelerate myself into a career in tech.",
+  "aboutme":"After many years of sales experience in the real estate and travel industries, I decided to go for a career change and attend Wyncode Academy's Full Stack Web Developer program. There, I made great friends and learned that web development could give me the same feeling of artistic accomplishment as painting. More than that, I've also grown to love working on the backend, creating fluid database architecture and learning how to tie a user authenticated based site together. Overall, Wyncode was a great experience and I'd recommend it to anyone.",
   "address":"Hollywood, FL, USA",
   "website":"michaelaspitaleri@gmail.com",
   "education":[
