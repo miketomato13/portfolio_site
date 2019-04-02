@@ -7,4 +7,5 @@ body {
 .item-img {
   width: 260px!important;
   height: 150px!important;
+  border: 4px solid black;
 }
