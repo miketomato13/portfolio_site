@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header.jpg) no-repeat top center;
+   background: #161415 url(../images/space.png) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -351,9 +351,27 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: html5 2s ease;
 }
 .reactjs {
-  	width: 80%;
+  	width: 60%;
   	-moz-animation: reactjs 2s ease;
   	-webkit-animation: reactjs 2s ease;
+}
+
+.ruby {
+  width: 80%;
+  -moz-animation: reactjs 2s ease;
+  -webkit-animation: reactjs 2s ease;
+}
+
+.javascript {
+  width: 60%;
+  -moz-animation: reactjs 2s ease;
+  -webkit-animation: reactjs 2s ease;
+}
+
+.rails {
+  width: 75%;
+  -moz-animation: reactjs 2s ease;
+  -webkit-animation: reactjs 2s ease;
 }
 
 @-moz-keyframes photoshop {
@@ -639,7 +657,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
+   background: #1F1F1F url(../images/blue-tech.jpeg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
