@@ -3,7 +3,7 @@ let resumeData = {
   "name": "Mike",
   "role": "Full Stack Web Developer",
   "linkedinId":"https://www.linkedin.com/in/michaelspitaleri/",
-  "roleDescription": " I enjoy creating art on various media, whether through painting, playing music, or developing web applications.",
+  "roleDescription": " I enjoy creating art on various media, whether through painting, music, or developing web applications.",
   "socialLinks":[
       {
         "name":"linkedin",
