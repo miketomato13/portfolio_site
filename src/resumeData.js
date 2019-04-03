@@ -71,7 +71,7 @@ let resumeData = {
     {
       "name":"brewfinder",
       "description":"Web Application, simple brewery finder made for people to more easily locate breweries nation wide. Created with MapboxGL API and Open Brewery Finder DB API.",
-      "imgurl":"images/portfolio/brew.png",
+      "imgurl":"images/portfolio/brew2.jpg",
       "url":"https://brewfinder-v1.herokuapp.com"
     }
   ],
