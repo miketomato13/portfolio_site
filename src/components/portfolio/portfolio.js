@@ -6,7 +6,7 @@ export default class Porfolio extends Component {
       <section id="portfolio">
       <div className="row">
         <div className="twelve columns collapsed">
-          <h1>Check Out Some of My Work.</h1>
+          <h1 id="check">Check Out Some of My Work.</h1>
           <div id="portfolio-wrapper">
           {
             resumeData.portfolio && resumeData.portfolio.map((item)=>{

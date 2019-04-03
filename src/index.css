@@ -8,3 +8,8 @@ body {
   width: 450px!important;
   height: 280px!important;
 }
+
+#check {
+  font: 24px 'opensans-bold', sans-serif!important;
+  margin-bottom: 8rem!important;
+}
