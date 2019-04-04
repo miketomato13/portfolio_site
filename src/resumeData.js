@@ -25,19 +25,14 @@ let resumeData = {
       "specialization":"Full Stack Web Developer Program",
       "MonthOfPassing":"March",
       "YearOfPassing":"2019",
-      "Achievements":"Completed two great projects: Beautify, a web app that allows artists to more easily connect with projects worldwide and Brewfinder, a simple brewery finder application for my friends to more easily find breweries while traveling."
+      "Achievements":"Completed two great projects: Beautify, a web app that allows artists to more easily connect with projects worldwide and Brewfinder, a simple brewery finder application for my friends to more easily find breweries while traveling. Learned HTML/CSS, JavaScript, JQuery, React.js, Ruby, and full backend development through Ruby on Rails."
     }
   ],
   "work":[
     {
-      "CompanyName":"Wyncode Academy",
-      "specialization":"On the job training in a Full Stack Web Developer role",
-      "Achievements":"Learned HTML, CSS, JavaScript, React.js, Ruby, and worked with Ruby on Rails in regards to web app development. Developed two apps while in school, linked below."
-    },
-    {
       "CompanyName":"Costa Bella Realty Group",
       "specialization":"Realtor, Marketing",
-      "Achievements":"Handled content creation and assisted in overall design of the web site. Assisted in the management of a brokerage that closed over $22million in business in 2018. I have been an active Florida Real Estate Agent since 2012."
+      "Achievements":"Handled content creation and assisted in overall design of the web site. Assisted in the management of a brokerage that closed over $22million in business for 2018. I have been an active Florida Real Estate Agent since 2012."
     },
   ],
   "skillsDescription":"Languages, Frameworks, & Libraries",
