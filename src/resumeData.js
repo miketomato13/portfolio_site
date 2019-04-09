@@ -68,6 +68,18 @@ let resumeData = {
       "description":"Web Application, simple brewery finder made for people to more easily locate breweries nation wide. Created with MapboxGL API and Open Brewery Finder DB API.",
       "imgurl":"images/portfolio/brew2.jpg",
       "url":"https://brewfinder-v1.herokuapp.com"
+    },
+    {
+      "name":"Art Website Mockup",
+      "description":"a simple HTML/CSS practice, mocking up a basic gallery page for the artist Joe Spit in NYC.",
+      "imgurl":"images/portfolio/art_mockup.jpg",
+      "url":"www.comingsoon.com"
+    },
+    {
+      "name":"Costa Bella Realty Group",
+      "description":"Created Blog content and assisted in UX/UI Design of the site.",
+      "imgurl":"images/portfolio/cbrg.jpg",
+      "url":"https://www.costabellarealtygroup.com"
     }
   ],
   "testimonials":[
