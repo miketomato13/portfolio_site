@@ -70,16 +70,16 @@ let resumeData = {
       "url":"https://brewfinder-v1.herokuapp.com"
     },
     {
-      "name":"Art Website Mockup",
-      "description":"a simple HTML/CSS practice, mocking up a basic gallery page for the artist Joe Spit in NYC.",
-      "imgurl":"images/portfolio/art_mockup.jpg",
-      "url":"www.comingsoon.com"
-    },
-    {
       "name":"Costa Bella Realty Group",
       "description":"Created Blog content and assisted in UX/UI Design of the site.",
       "imgurl":"images/portfolio/cbrg.jpg",
       "url":"https://www.costabellarealtygroup.com"
+    },
+    {
+      "name":"Art Website Mockup",
+      "description":"a simple HTML/CSS practice, mocking up a basic gallery page for the artist Joe Spit in NYC.",
+      "imgurl":"images/portfolio/art_mockup.jpg",
+      "url":"www.comingsoon.com"
     }
   ],
   "testimonials":[
