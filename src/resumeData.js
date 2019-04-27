@@ -58,6 +58,12 @@ let resumeData = {
   ],
   "portfolio":[
     {
+      "name":"Miami Ridez",
+      "description":"Very cool Miami Bike Station Search App made with MapBox GL, and citybike API. Send out to your friends to find bikes while on vacay!",
+      "imgurl":"images/portfolio/miamiridez.jpg",
+      "url":"https://miamiridez.netlify.com/"
+    },
+    {
       "name":"Beautify",
       "description":"Web Application, Final Project at Wyncode. More easily connects artists with project opportunities nation wide. Created API for users, artists, listings, and offers. Integrated with the Stripe API for payment. ",
       "imgurl":"images/portfolio/beaut.png",
