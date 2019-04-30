@@ -13,3 +13,9 @@ body {
   font: 24px 'opensans-bold', sans-serif!important;
   margin-bottom: 8rem!important;
 }
+
+@media only screen and (max-width: 600px) {
+  .item-img {
+    height: 300px!important;
+  }
+}
