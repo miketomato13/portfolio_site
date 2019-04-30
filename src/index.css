@@ -5,8 +5,8 @@ body {
 }
 
 .item-img {
-  width: 1000px!important;
-  height: 580px!important;
+  width: 100%!important;
+  height: 500px!important;
 }
 
 #check {

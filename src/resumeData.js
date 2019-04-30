@@ -66,7 +66,7 @@ let resumeData = {
     {
       "name":"Beautify",
       "description":"Web Application, Final Project at Wyncode. More easily connects artists with project opportunities nation wide. Created API for users, artists, listings, and offers. Integrated with the Stripe API for payment. ",
-      "imgurl":"images/portfolio/beaut.png",
+      "imgurl":"images/portfolio/beautify.jpg",
       "url":"https://beautifyapp.herokuapp.com"
     },
     {
