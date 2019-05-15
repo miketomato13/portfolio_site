@@ -30,6 +30,11 @@ let resumeData = {
   ],
   "work":[
     {
+      "CompanyName":"OnPoint Global",
+      "specialization":"Software Engineer, Data Analytics",
+      "Achievements":"Front end development related to the SmartPath, creating view filters based on advertisers needs, analyzing data to ensure each advertisers campaign is successful not only for the advertiser, but for OnPoint as well."
+    },
+    {
       "CompanyName":"Costa Bella Realty Group",
       "specialization":"Realtor, Marketing",
       "Achievements":"Handled content creation and assisted in overall design of the web site. Assisted in the management of a brokerage that closed over $22million in business for 2018. I have been an active Florida Real Estate Agent since 2012."
@@ -53,7 +58,7 @@ let resumeData = {
       "skillname":"Ruby"
     },
     {
-      "skillname":"Rails"
+      "skillname":"jQuery"
     }
   ],
   "portfolio":[
