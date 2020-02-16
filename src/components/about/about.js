@@ -10,7 +10,7 @@ export default class About extends Component {
             </div>
             <div className="nine columns main-col">
                <h2>About Me</h2>
-               <p>
+               <p style={{color: "#fff"}}>
                  {
                    resumeData.aboutme
                  }
@@ -19,20 +19,20 @@ export default class About extends Component {
                   <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
-       						   <span>
+       						   <span style={{color: "#fff"}}>
                         Michael Angelo Spitaleri
                      </span>
                      <br/>
                      <span>
+                     <a href="tel: 954-895-0199">
                         (954) 895-0199
-                     </span>
-                     <br/>
-                     <span>
-                        {resumeData.website}
+                     </a>
                      </span>
                      <br/>
        						   <span>
-                        {resumeData.address}
+                     <a href="mailto: michaelaspitaleri@gmail.com">
+                        michaelaspitaleri@gmail.com
+                     </a>
                     </span>
        					   </p>
                   </div>
